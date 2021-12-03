@@ -1,5 +1,5 @@
 <?php
-echo '<p>update : 23aaa nov. 2021 </p>';
+echo '<p>update : on push </p>';
 phpinfo();
 ?>
 
